@@ -1,7 +1,7 @@
 # leaky.today-ads-free
 Get the leaks from leaky.today for free without watching thee ads anymore
 
-**⚠This Scrip Will Get Updated Until No More Works⚠**
+**⚠This Scrip Will Get Updated Until Doesnt Works Anymore⚠**
 
 # Usage: 
 
