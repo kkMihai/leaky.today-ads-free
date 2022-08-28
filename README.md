@@ -1,4 +1,4 @@
-# leaky.today-ads-free
+# __leaky.today__ Without Ads
 **Get the leaks from leaky.today for free without watching thee ads anymore**
 
 __**⚠This Script Will Get Updated Until Doesnt Works Anymore⚠**__
