@@ -1,5 +1,6 @@
 # __leaky.today__ Without Ads
 **Get the leaks from leaky.today for free without watching thee ads anymore**
+https://leaky.today
 
 __**⚠This Script Will Get Updated Until Doesnt Works Anymore⚠**__
 
