@@ -15,7 +15,7 @@ console.log("%c Download Leak: "+leak.download, " color: white; background: #7A2
 console.log("%c ――――――――――――――――――――――――――――――――――――", "background: #9F3AFF; color: #9F3AFF;  border-radius: 0px 0px 10px 10px")
 }) 
  console.log("%c Version: 1.0.0 ", "background: red; color: white; border-radius: 30px")   
- console.log("%c Easy Script by Talus Development ", "background: red; color: white; border-radius: 30px")   
+ console.log("%c Easy Script by kkdaddy ", "background: red; color: white; border-radius: 30px")   
 }
 
 
