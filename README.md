@@ -4,6 +4,8 @@ https://leaky.today
 
 __**⚠OUTDATED !!!!!!!!!⚠**__
 
+WORKING ON NEW SCRIPT
+
 # Usage: 
 
 __Insert the script into the Console after inserting should appear the name of the leak and the download link enjoy lol__
