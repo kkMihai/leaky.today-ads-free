@@ -1,0 +1,27 @@
+try {
+
+function main() {
+
+const json = document.getElementById("__NEXT_DATA__").innerHTML;
+const obj = JSON.parse(json);
+const leaks = obj.props.pageProps.leaks;
+if(window.location.hostname !== "leaky.today") return alert("THIS SCRIPT ONLY WORKS ON https://leaky.today WEBSITE !!!");
+
+console.log("%c Leaky Today ADS-FREE ", "background: red; color: white; border-radius: 30px; font-size: 45px; align-text: center") 
+leaks.forEach(leak => {
+console.log("%c ――――――――――――――――――――――――――――――――――――", "background: #9F3AFF; color: #9F3AFF;  border-radius: 10px 10px 0px 0px")
+console.log("%c Name: "+leak.title.replace("Onlyfans", ""), " color: white; background: #7A2BCD;")
+console.log("%c Download Leak: "+leak.download, " color: white; background: #7A2BCD;")
+console.log("%c ――――――――――――――――――――――――――――――――――――", "background: #9F3AFF; color: #9F3AFF;  border-radius: 0px 0px 10px 10px")
+}) 
+ console.log("%c Version: 1.0.0 ", "background: red; color: white; border-radius: 30px")   
+ console.log("%c Easy Script by Talus Development ", "background: red; color: white; border-radius: 30px")   
+}
+
+
+clear()
+main()
+
+} catch (error) {
+  alert("THIS SCRIPT ONLY WORKS ON https://leaky.today WEBSITE !!!");
+}
